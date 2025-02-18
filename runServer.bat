@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_5.4\Engine\Binaries\Win64\UnrealEditor.exe" "C:\Users\sn0ri\Documents\Unreal Projects\PropHuntGameTutorial\PropHuntGameTutorial.uproject" -server -log -port=7776
